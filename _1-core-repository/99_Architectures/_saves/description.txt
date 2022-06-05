@@ -1,0 +1,6 @@
+This folder contains trained models. They are not synced with
+GitHub, as this folder is obviously hugh.
+
+@BeeJayK synced this folder with his own pCloud structure. If 
+you use this repo for development, @BeeJayK would recommend you
+to do it the same way.
